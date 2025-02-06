@@ -2,7 +2,7 @@
 *.xlm
 
 # Ignore the "solution" folder and all its contents
-Exercise_solution/
+solutions/
 
 # Ignore the file "minute.txt"
-Lesson_minutes.txt
+minutes.txt
