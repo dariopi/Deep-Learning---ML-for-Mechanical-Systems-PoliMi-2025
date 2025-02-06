@@ -1,0 +1,8 @@
+# Ignore all .xlm files
+*.xlm
+
+# Ignore the "solution" folder and all its contents
+Exercise_solution/
+
+# Ignore the file "minute.txt"
+Lesson_minutes.txt
