@@ -8,25 +8,7 @@ This repository contains course materials for the lesson **Introduction to Deep 
 
 - 📂 **Lecture slides**  
 - 🏋️ **Exercises presented in class**  
-- 📝 **Assignments for students**  
-- 📊 **Three datasets used in exercises**  
-
----
-
-## 📊 Datasets  
-The repository includes three publicly available datasets used for hands-on exercises:  
-
-1. **MNIST Dataset** (Handwritten digits classification)  
-   - 📌 Description: 70,000 grayscale images (28×28 pixels) of handwritten digits (0-9).  
-   - 🔗 [Download MNIST Dataset](https://www.kaggle.com/datasets/hojjatk/mnist-dataset)  
-
-2. **Fashion MNIST Dataset** (Clothing item classification)  
-   - 📌 Description: 70,000 grayscale images (28×28 pixels) of fashion items (shoes, shirts, bags, etc.).  
-   - 🔗 [Download Fashion MNIST Dataset](https://www.kaggle.com/datasets/zalando-research/fashionmnist)  
-
-3. **Wine Quality Dataset** (Wine quality prediction)  
-   - 📌 Description: Chemical attributes of red and white wines, used for regression and classification tasks.  
-   - 🔗 [Download Wine Quality Dataset](https://archive.ics.uci.edu/ml/datasets/Wine+Quality)  
+- 📊 **Datasets used in exercises**  
 
 ---
 
