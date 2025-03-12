@@ -1,8 +1,0 @@
-- Introduction to machine learning
-- Linear regression (and exercise in Pytorch on Boston housing dataset)
-- Logistic regression (and exercise in Pytorch on Titanic dataset)
-- Feedforward neural network
-- Exercise on FFN (MNIST dataset classification)
-- Open exercise on FFN for regression (Wine dataset)
-- Explanation on Autoencoders
-- Open exercise on autoencoders
