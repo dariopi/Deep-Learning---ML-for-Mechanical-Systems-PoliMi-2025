@@ -1,8 +1,0 @@
-# Ignore all .xlm files
-*.xlm
-
-# Ignore the "solution" folder and all its contents
-solutions/
-
-# Ignore the file "minute.txt"
-minutes.txt
