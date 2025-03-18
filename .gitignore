@@ -181,3 +181,5 @@ solutions/
 
 # Ignore the file "minute.txt"
 minutes.txt
+
+.DS_Store
